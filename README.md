@@ -1,35 +1,49 @@
-# Hi, I'm Saeed Yeganeh 👋
+# Saeed Yeganeh
 
-**Senior Software Engineer · AI & SEO Specialist · Digital Marketer · Entrepreneur**
+### Senior Software Engineer · AI Researcher · SEO Specialist · Digital Marketer
 
-I'm a senior software engineer with a master's degree, working where software, artificial intelligence and search meet. I build fast, search-friendly websites, design AI-powered automation, and help businesses grow through technical SEO and data-driven digital marketing.
+I'm a **senior software engineer** with an **M.Sc. in Software Engineering** and an **artificial intelligence researcher** focused on **information retrieval** and **recommender systems**. I work where software engineering, AI and search meet: I build fast, search-friendly web platforms, design AI-powered automation, and grow online businesses through technical SEO and data-driven digital marketing.
 
-🌐 **Website:** [saeedyeganeh.com](https://saeedyeganeh.com) &nbsp;·&nbsp; 🎬 **Film magazine:** [StayWithCinema](https://staywithcinema.com)
+🌐 [saeedyeganeh.com](https://saeedyeganeh.com) &nbsp;·&nbsp; 🎬 [StayWithCinema](https://staywithcinema.com) &nbsp;·&nbsp; 📫 [Contact](https://staywithcinema.com/contact/)
 
 ---
 
-## 🚀 What I do
+## 👨‍💻 About me
 
-- **Software engineering**: architecture and development of web applications, APIs and backend systems
-- **Artificial intelligence & automation**: LLM-powered workflows, AI content and data pipelines, business automation with n8n
-- **SEO**: technical SEO, site architecture, structured data (Schema.org), content strategy, Core Web Vitals and E-E-A-T
-- **Web design & development**: custom WordPress themes and plugins, fast, accessible and conversion-focused websites
-- **Digital marketing**: growth strategy, analytics, content marketing and conversion rate optimization
-- **Entrepreneurship**: building and running my own online products and publications
+- 🎓 **M.Sc. in Software Engineering**
+- 🔬 **AI researcher**: information retrieval systems, recommender systems, machine learning and deep learning
+- 🔎 **Professional SEO specialist**: technical SEO, site architecture, structured data and content strategy
+- 📈 **Digital marketer**: growth, analytics, content marketing and conversion optimization
+- 🚀 **Entrepreneur and web designer**: I build and run my own online products and publications
+- 🎬 **Film lover**: founder and editor of an independent movie and TV magazine
 
-## 🧠 Interests
+## 🔬 Research interests
 
-Machine learning · Deep learning · Convolutional neural networks (CNNs) · Computer vision · Natural language processing · Large language models · Search engines and information retrieval
+- **Information Retrieval (IR)**: search engines, ranking, query understanding, semantic and neural search
+- **Recommender systems**: collaborative filtering, content-based and hybrid recommendation, personalization
+- **Machine learning and deep learning**: convolutional neural networks (CNNs), representation learning
+- **Natural language processing**: large language models (LLMs), embeddings, retrieval-augmented generation (RAG)
+- **Computer vision**
+
+## 🧰 Core expertise
+
+| Area | What I do |
+|---|---|
+| **Software engineering** | Architecture and development of web applications, APIs and backend systems |
+| **AI & automation** | LLM-powered workflows, AI content and data pipelines, business automation with n8n |
+| **Search & SEO** | Technical SEO, crawling and indexing, Schema.org structured data, Core Web Vitals, E-E-A-T, content strategy |
+| **Web design & development** | Custom WordPress themes and plugins, fast, accessible, conversion-focused websites |
+| **Digital marketing** | Growth strategy, analytics, content marketing, conversion rate optimization |
 
 ## 📌 Projects
 
-- **[StayWithCinema](https://staywithcinema.com)**: an independent movie and TV magazine that I founded, edit and built myself. Reviews, ranked lists, endings explained and watch-order guides.
+- **[StayWithCinema](https://staywithcinema.com)**: an independent movie and TV magazine that I founded, edit and built myself, from design and development to SEO and content strategy.
 - **[saeedyeganeh.com](https://saeedyeganeh.com)**: my personal website about AI, SEO, software engineering and digital marketing.
 
-## 🛠️ Tech I work with
+## 🛠️ Tech stack
 
-`Python` `PHP` `JavaScript` `WordPress` `MySQL` `n8n` `REST APIs` `Git` `Google Search Console` `Google Analytics`
+`Python` `PHP` `JavaScript` `SQL` `WordPress` `n8n` `REST APIs` `Git` `Google Search Console` `Google Analytics`
 
-## 📫 Let's connect
+## 🤝 Let's connect
 
-I'm always happy to talk about AI, SEO, web projects or a good film. Reach me through [saeedyeganeh.com](https://saeedyeganeh.com) or [StayWithCinema](https://staywithcinema.com/contact/).
+I'm open to collaboration on AI, information retrieval, recommender systems, SEO and web projects. Reach me through [saeedyeganeh.com](https://saeedyeganeh.com) or the [StayWithCinema contact page](https://staywithcinema.com/contact/).
